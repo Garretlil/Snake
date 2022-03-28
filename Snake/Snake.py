@@ -1,8 +1,11 @@
 
+
 arr=[]
 for i in range(10):
     for k in range(10):
         arr.append('')
+
+
 
 class Point:
      def __init__(self,x,y,color,direction):
